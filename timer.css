@@ -35,3 +35,6 @@ body{
     color: black;
 
 }
+button:hover{
+    cursor:pointer;
+}
